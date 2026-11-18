@@ -1,6 +1,6 @@
 # Global AI Ethics Simulator — T3
 
-인공지능과 경영 11주차 협동학습 · 배정 문화권: `MIDDLE_E`
+인공지능과 경영  협동학습 · 배정 문화권: `MIDDLE_E`
 
 ## 현재 상태
 
